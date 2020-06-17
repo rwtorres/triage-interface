@@ -56,7 +56,6 @@ function loadHome(container) {
 
   home.appendChild(headline);
   home.appendChild(chartContainer);
-  home.appendChild(document.createElement("p"));
   container.appendChild(home);
 }
 
